@@ -1,0 +1,24 @@
+@keyframes example {
+    0%   {
+        transform: scale(1);
+    }
+    25%  {
+        background-color: darkcyan;
+    }
+    50%  {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.btn:hover {
+    transform: scale(120%);
+    transition: transform 0.5s;
+}
+
+.anim:hover {
+    transform: scale(110%);
+    transition: transform 0.5s;
+}

@@ -1,0 +1,104 @@
+.h1 {
+    font-size: 40px;
+}
+
+.h2 {
+    font-size: 32px;
+}
+
+.h3 {
+    font-size: 28px;
+}
+
+.h4 {
+    font-size: 24px;
+}
+
+.h5 {
+    font-size: 20px;
+}
+
+.h6 {
+    font-size: 16px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-weight: 600;
+}
+
+.p {
+    font-size: 16px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.bg-image {
+    background-image: url(img/background-image.png);
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fs {
+    font-style: normal;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.fw-normal {
+    font-weight: normal;
+}
+
+.text-red {
+    color: #72061F;
+}
+
+.text-l-red {
+    color: #BE4B5D;
+}
+
+.text-g {
+    color: #726B7C;
+}
+
+.text-lg {
+    color: #A19FA5;
+}
+
+.text-lw {
+    color: #B8B4C2;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.algin-center {
+    align-items: center;
+}

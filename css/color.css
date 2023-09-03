@@ -1,0 +1,49 @@
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-gray {
+    color: rgb(51, 51, 51);
+}
+
+.text-cyan {
+    color: rgb(38, 144, 212);
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-gray {
+    background-color: rgb(51, 51, 51);
+}
+
+.bg-cyan {
+    background-color: rgb(38, 144, 212);
+}
+
+.button {
+    background-color: #333333;
+    border: 1px solid;
+    border-color: #454544;
+}
+
+.bg-color {
+    background-color: #333333;
+}
+
+.bg-blue {
+    background-color: #2690D4;
+}
+
+.text-lt {
+    color: #95969A;
+}

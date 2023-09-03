@@ -1,0 +1,64 @@
+
+body {
+    font-family: Jost;
+    src: url(../font/Jost/static/Jost-Regular.ttf)
+}
+
+a {
+    color: rgb(38, 144, 212);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.bg-image {
+    background-image: url("img/background-image.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.bg-im {
+    background-image: url(../img/mbr-10.jpg);
+}
+
+.bg1 {
+    background-image: url(../1/img/intro.jpg);
+}
+
+.btn {
+    background-color: #5CA434;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 2px;
+}
+
+.centre {
+    align-items: center;
+}
+
+.br {
+    border-radius: 2px;
+    border: none;
+}
